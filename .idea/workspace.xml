@@ -19,19 +19,28 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d50614a-2a30-4e8b-9aa6-78cd37ac788f" name="Default Changelist" comment="sec comm">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/git_testing.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="1d50614a-2a30-4e8b-9aa6-78cd37ac788f" name="Default Changelist" comment="sec commjninuib">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jjjjjjjj.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="release" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iTJ21kF9laSFFZqUAey8CxHDDc" />
@@ -41,6 +50,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -58,6 +68,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601925437840</updated>
       <workItem from="1601925439015" duration="176000" />
+      <workItem from="1601926540481" duration="1687000" />
     </task>
     <task id="LOCAL-00001" summary="sec comm">
       <created>1601925522319</created>
@@ -66,7 +77,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601925522319</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sec comm">
+      <created>1601926668910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601926668910</updated>
+    </task>
+    <task id="LOCAL-00003" summary="sec comm">
+      <created>1601926683880</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601926683880</updated>
+    </task>
+    <task id="LOCAL-00004" summary="sec commjninuib">
+      <created>1601927050705</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1601927050705</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,19 +114,29 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sec comm" />
-    <option name="LAST_COMMIT_MESSAGE" value="sec comm" />
+    <MESSAGE value="sec commjninuib" />
+    <option name="LAST_COMMIT_MESSAGE" value="sec commjninuib" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="0" y="91" key="DiffContextDialog" timestamp="1601925474742">
+    <state x="0" y="91" width="1152" height="637" key="DiffContextDialog" timestamp="1601927000728">
       <screen x="0" y="25" width="1440" height="797" />
     </state>
-    <state x="0" y="91" key="DiffContextDialog/0.25.1440.797@0.25.1440.797" timestamp="1601925474742" />
-    <state x="0" y="160" key="Vcs.Push.Dialog.v2" timestamp="1601925547626">
+    <state x="0" y="91" width="1152" height="637" key="DiffContextDialog/0.25.1440.797@0.25.1440.797" timestamp="1601927000728" />
+    <state x="145" y="130" key="RollbackChangesDialog" timestamp="1601927116615">
       <screen x="0" y="25" width="1440" height="797" />
     </state>
-    <state x="0" y="160" key="Vcs.Push.Dialog.v2/0.25.1440.797@0.25.1440.797" timestamp="1601925547626" />
+    <state x="145" y="130" key="RollbackChangesDialog/0.25.1440.797@0.25.1440.797" timestamp="1601927116615" />
+    <state x="0" y="160" key="Vcs.Push.Dialog.v2" timestamp="1601927065692">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state x="0" y="160" key="Vcs.Push.Dialog.v2/0.25.1440.797@0.25.1440.797" timestamp="1601927065692" />
+    <state x="200" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601926593874">
+      <screen x="0" y="25" width="1440" height="797" />
+    </state>
+    <state x="200" y="341" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.797@0.25.1440.797" timestamp="1601926593874" />
   </component>
 </project>
